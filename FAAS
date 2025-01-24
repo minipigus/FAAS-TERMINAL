@@ -112,14 +112,9 @@ cooling_level = 0
 reactor_running = False  
 
 
-def clear():
-    os.system('cls' if os.name == 'nt' else 'clear')
-
 
 def play_beep():
      winsound.Beep(1000, 200)
-
-
 
 def play_beep():
     winsound.Beep(1000, 200)  
