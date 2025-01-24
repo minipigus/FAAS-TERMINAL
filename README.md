@@ -16,3 +16,4 @@ Login: Daniel Weldman
 Password: DMR is safe
 
 Passwords are encrypted in code, so I'm writing them here. And yes, encryption is a feature too!!!
+This programme is made in Python programming languages. So you need to compile it to run it. 
